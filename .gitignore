@@ -1,0 +1,26 @@
+# Local IDE/session state
+.cdk/
+
+# Workspace/package scratch output
+__workspace_pack__/
+
+# Build artifacts
+**/.cache/
+**/Obj/
+**/Lst/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+*.asm
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+Thumbs.db
+Desktop.ini
